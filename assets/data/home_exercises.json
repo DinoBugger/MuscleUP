@@ -1,0 +1,673 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "language": "vi",
+    "categories": ["Ngực & Tay sau", "Chân & Mông", "Bụng & Lưng dưới", "Cardio / Toàn thân"]
+  },
+
+  " Ngực & Tay sau": {
+    "Ngực giữa": {
+      "Push-up (Hít đất tiêu chuẩn)": {
+        "muscle_primary": ["Ngực giữa", "Tam đầu"],
+        "muscle_secondary": ["Vai trước", "Core"],
+        "difficulty": "Beginner",
+        "sets": "3-4",
+        "reps": "10-20",
+        "rest_seconds": 60,
+        "instructions": ["Úp người, hai tay rộng hơn vai một chút", "Giữ thân thẳng từ đầu đến gót chân", "Hạ ngực xuống gần sàn, khuỷu tay mở 45°", "Đẩy người lên về tư thế ban đầu"],
+        "variations": ["Wide Push-up", "Narrow Push-up", "Knee Push-up (dễ hơn)"]
+      },
+      "Wide Push-up (Hít đất tay rộng)": {
+        "muscle_primary": ["Ngực giữa", "Ngực ngoài"],
+        "muscle_secondary": ["Vai trước"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "10-15",
+        "rest_seconds": 60,
+        "instructions": ["Hai tay đặt rộng hơn vai khoảng 1.5 lần", "Hạ ngực thẳng xuống sàn", "Khuỷu tay mở rộng hơn so với push-up tiêu chuẩn"],
+        "variations": []
+      }
+    },
+    "Ngực trên": {
+      "Incline Push-up (Hít đất tay cao)": {
+        "muscle_primary": ["Ngực trên", "Vai trước"],
+        "muscle_secondary": ["Tam đầu"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "12-20",
+        "rest_seconds": 60,
+        "instructions": ["Đặt tay lên ghế hoặc mặt phẳng cao (bàn, tường)", "Người nghiêng góc 30-45° so với sàn", "Hạ ngực về phía mặt phẳng, đẩy lên lại"],
+        "variations": ["Wall Push-up (dễ nhất)", "Chair Push-up"]
+      },
+      "Pike Push-up": {
+        "muscle_primary": ["Ngực trên", "Vai (Deltoid trước & giữa)"],
+        "muscle_secondary": ["Tam đầu", "Core"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "8-12",
+        "rest_seconds": 75,
+        "instructions": ["Bắt đầu tư thế Downward Dog (hông nâng cao, người tạo chữ V ngược)", "Hạ đầu xuống gần sàn giữa hai tay", "Đẩy lên lại, duy trì tư thế chữ V"],
+        "variations": ["Elevated Pike Push-up (chân lên ghế - khó hơn)"]
+      }
+    },
+    "Ngực dưới": {
+      "Decline Push-up (Hít đất chân cao)": {
+        "muscle_primary": ["Ngực dưới", "Tam đầu"],
+        "muscle_secondary": ["Vai trước", "Core"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "10-15",
+        "rest_seconds": 60,
+        "instructions": ["Đặt chân lên ghế hoặc mặt phẳng cao", "Tay đặt trên sàn rộng hơn vai", "Hạ ngực xuống sàn, đẩy lên lại"],
+        "variations": []
+      }
+    },
+    "Tay sau (Tam đầu - Triceps)": {
+      "Diamond Push-up (Hít đất kim cương)": {
+        "muscle_primary": ["Tam đầu (Triceps)"],
+        "muscle_secondary": ["Ngực trong", "Vai trước"],
+        "difficulty": "Intermediate",
+        "sets": "3-4",
+        "reps": "8-15",
+        "rest_seconds": 60,
+        "instructions": ["Hai tay đặt gần nhau, ngón cái và trỏ tạo hình kim cương", "Giữ khuỷu tay sát thân khi hạ xuống", "Đẩy lên, tập trung siết tam đầu"],
+        "variations": ["Close-grip Push-up"]
+      },
+      "Tricep Dip (Chống tay sau lưng)": {
+        "muscle_primary": ["Tam đầu (Triceps)"],
+        "muscle_secondary": ["Vai trước", "Ngực dưới"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "10-20",
+        "rest_seconds": 60,
+        "instructions": [
+          "Ngồi trước ghế, hai tay bám mép ghế, ngón tay hướng về phía trước",
+          "Trượt mông ra khỏi ghế, chân duỗi thẳng hoặc gập",
+          "Hạ người xuống bằng cách gập khuỷu tay đến 90°",
+          "Đẩy lên lại bằng lực tam đầu"
+        ],
+        "variations": ["Bench Dip với chân gập (dễ hơn)", "Straight Leg Dip (khó hơn)"]
+      },
+      "Archer Push-up": {
+        "muscle_primary": ["Ngực (một bên)", "Tam đầu"],
+        "muscle_secondary": ["Vai", "Core"],
+        "difficulty": "Advanced",
+        "sets": "3",
+        "reps": "5-8 mỗi bên",
+        "rest_seconds": 90,
+        "instructions": ["Tay rộng hơn push-up thông thường nhiều", "Hạ người nghiêng về một bên, tay còn lại duỗi thẳng", "Đẩy lên bằng tay đang gập, đổi bên"],
+        "variations": []
+      },
+      "One-arm Push-up (Hít đất một tay)": {
+        "muscle_primary": ["Ngực", "Tam đầu", "Vai"],
+        "muscle_secondary": ["Core", "Lưng"],
+        "difficulty": "Expert",
+        "sets": "3",
+        "reps": "3-8 mỗi bên",
+        "rest_seconds": 120,
+        "instructions": ["Chân dang rộng hơn vai để tạo điểm tựa", "Một tay sau lưng, tay kia đặt dưới ngực", "Hạ người xuống chậm rãi, giữ thân thẳng", "Đẩy lên bằng một tay"],
+        "variations": []
+      }
+    }
+  },
+
+  "Chân & Mông": {
+    "Đùi trước (Quadriceps)": {
+      "Squat (Ngồi xổm)": {
+        "muscle_primary": ["Đùi trước (Quads)", "Mông (Glutes)"],
+        "muscle_secondary": ["Đùi sau (Hamstrings)", "Bắp chân"],
+        "difficulty": "Beginner",
+        "sets": "3-4",
+        "reps": "15-25",
+        "rest_seconds": 60,
+        "instructions": [
+          "Đứng chân rộng bằng vai, mũi chân hơi hướng ra ngoài",
+          "Hạ người xuống như ngồi vào ghế, gối không vượt quá mũi chân",
+          "Giữ lưng thẳng, ngực ưỡn ra",
+          "Đẩy gót chân xuống đất để đứng dậy"
+        ],
+        "variations": ["Goblet Squat (cầm vật nặng)", "Box Squat"]
+      },
+      "Jump Squat (Squat bật nhảy)": {
+        "muscle_primary": ["Đùi trước", "Mông"],
+        "muscle_secondary": ["Bắp chân", "Core"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "10-15",
+        "rest_seconds": 75,
+        "instructions": ["Thực hiện squat bình thường", "Ở điểm thấp nhất, bật nhảy mạnh lên cao", "Tiếp đất nhẹ nhàng bằng mũi chân trước, gối hơi gập"],
+        "variations": []
+      },
+      "Sumo Squat": {
+        "muscle_primary": ["Đùi trong (Adductors)", "Mông"],
+        "muscle_secondary": ["Đùi trước", "Đùi sau"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "15-20",
+        "rest_seconds": 60,
+        "instructions": ["Chân rộng hơn vai, mũi chân hướng ra ngoài 45°", "Hạ người thẳng xuống giữa hai chân", "Giữ lưng thẳng, gối mở theo hướng mũi chân"],
+        "tips": "Tốt cho đùi trong và mông hơn squat thông thường.",
+        "variations": ["Sumo Squat Pulse"],
+        "equipment": "Không cần"
+      },
+      "Pistol Squat (Squat một chân)": {
+        "muscle_primary": ["Đùi trước", "Mông"],
+        "muscle_secondary": ["Core", "Cân bằng"],
+        "difficulty": "Expert",
+        "sets": "3",
+        "reps": "3-8 mỗi chân",
+        "rest_seconds": 90,
+        "instructions": ["Đứng một chân, chân còn lại duỗi thẳng về phía trước", "Hạ người xuống bằng chân trụ, chân kia song song với sàn", "Đùi chạm bắp chân, đứng lên lại"],
+        "tips": "Tập Assisted Pistol Squat (bám tay vào tường) trước.",
+        "variations": ["Assisted Pistol Squat", "Box Pistol Squat"],
+        "equipment": "Không cần"
+      }
+    },
+    "Đùi sau & Mông (Hamstrings & Glutes)": {
+      "Glute Bridge (Cầu mông)": {
+        "muscle_primary": ["Mông (Glutes)", "Đùi sau (Hamstrings)"],
+        "muscle_secondary": ["Lưng dưới", "Core"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "15-25",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, gối gập, bàn chân đặt sàn gần mông", "Đẩy hông lên cao, siết mông ở điểm cao nhất", "Giữ 1-2 giây, hạ xuống chậm rãi"],
+        "tips": "Đẩy từ gót chân, không từ mũi chân. Đùi và thân tạo đường thẳng.",
+        "variations": ["Single-leg Glute Bridge (khó hơn)", "Hip Thrust với ghế"],
+        "equipment": "Không cần / Ghế (Hip Thrust)"
+      },
+      "Romanian Deadlift (không tạ)": {
+        "muscle_primary": ["Đùi sau (Hamstrings)", "Mông"],
+        "muscle_secondary": ["Lưng dưới", "Core"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "12-15",
+        "rest_seconds": 60,
+        "instructions": [
+          "Đứng thẳng, hơi gập gối",
+          "Cúi người về phía trước bằng cách đẩy hông ra sau",
+          "Giữ lưng thẳng, hạ người đến khi cảm thấy căng đùi sau",
+          "Đứng lên bằng cách siết mông và đùi sau"
+        ],
+        "tips": "Không cần cúi sát sàn. Quan trọng là cảm nhận đùi sau căng ra.",
+        "variations": ["Single-leg RDL"],
+        "equipment": "Không cần (có thể cầm chai nước làm tạ)"
+      },
+      "Donkey Kick (Đá lừa)": {
+        "muscle_primary": ["Mông (Glutes)"],
+        "muscle_secondary": ["Lưng dưới", "Core"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "15-20 mỗi chân",
+        "rest_seconds": 45,
+        "instructions": ["Quỳ bốn chân, lưng thẳng", "Đá một chân lên cao phía sau, gối gập 90°", "Siết mông ở điểm cao nhất, hạ chân về không chạm sàn"],
+        "tips": "Không xoay hông khi đá. Giữ core siết để lưng không võng.",
+        "variations": ["Fire Hydrant", "Straight Leg Kickback"],
+        "equipment": "Không cần / Thảm tập"
+      }
+    },
+    "Toàn chân": {
+      "Lunge (Bước chân)": {
+        "muscle_primary": ["Đùi trước", "Mông"],
+        "muscle_secondary": ["Đùi sau", "Bắp chân", "Core"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "10-15 mỗi chân",
+        "rest_seconds": 60,
+        "instructions": ["Đứng thẳng, bước một chân ra trước dài", "Hạ người xuống, gối sau gần sàn nhưng không chạm", "Gối trước không vượt quá mũi chân", "Đứng lên, đổi chân"],
+        "tips": "Thân người thẳng đứng, không nghiêng về trước.",
+        "variations": ["Reverse Lunge", "Walking Lunge", "Jump Lunge (Plyometric)"],
+        "equipment": "Không cần"
+      },
+      "Step-up (Bước lên ghế)": {
+        "muscle_primary": ["Đùi trước", "Mông"],
+        "muscle_secondary": ["Đùi sau", "Bắp chân"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "12-15 mỗi chân",
+        "rest_seconds": 60,
+        "instructions": ["Đứng trước ghế hoặc bậc thang", "Bước một chân lên, đẩy người lên bằng chân đó", "Chân kia bước lên theo, sau đó bước xuống"],
+        "tips": "Đẩy từ chân đang đứng trên ghế, không dùng đà của chân dưới.",
+        "variations": ["High Step-up", "Lateral Step-up"],
+        "equipment": "Ghế chắc chắn"
+      },
+      "Wall Sit (Ngồi tường)": {
+        "muscle_primary": ["Đùi trước (Quads)"],
+        "muscle_secondary": ["Mông", "Bắp chân"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "30-60 giây",
+        "rest_seconds": 60,
+        "instructions": ["Dựa lưng vào tường, hạ người xuống tư thế ngồi ghế", "Đùi song song với sàn, gối tạo góc 90°", "Giữ nguyên tư thế trong thời gian quy định"],
+        "tips": "Không để gối vượt quá mũi chân. Lưng phẳng sát tường.",
+        "variations": ["Single-leg Wall Sit"],
+        "equipment": "Tường"
+      }
+    },
+    "Bắp chân (Calves)": {
+      "Calf Raise (Nhón chân)": {
+        "muscle_primary": ["Bắp chân (Gastrocnemius)", "Cơ dép (Soleus)"],
+        "muscle_secondary": [],
+        "difficulty": "Beginner",
+        "sets": "3-4",
+        "reps": "20-30",
+        "rest_seconds": 45,
+        "instructions": ["Đứng thẳng, hai chân rộng bằng hông", "Nhón lên bằng mũi chân càng cao càng tốt", "Giữ 1 giây ở điểm cao nhất, hạ xuống chậm"],
+        "tips": "Thực hiện trên bậc thang để tăng biên độ chuyển động.",
+        "variations": ["Single-leg Calf Raise (khó hơn)", "Seated Calf Raise"],
+        "equipment": "Không cần / Bậc thang"
+      },
+      "Jump Rope (Nhảy dây - mô phỏng)": {
+        "muscle_primary": ["Bắp chân"],
+        "muscle_secondary": ["Toàn thân"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "60 giây",
+        "rest_seconds": 30,
+        "instructions": ["Mô phỏng động tác nhảy dây không cần dây", "Nhún nhẹ lên xuống bằng mũi chân", "Duy trì nhịp điệu đều đặn"],
+        "tips": "Giữ khuỷu tay gần thân, xoay cổ tay như cầm dây.",
+        "variations": ["Double Under (nhảy cao hơn)"],
+        "equipment": "Không cần / Dây nhảy"
+      }
+    }
+  },
+
+  "Bụng & Lưng dưới": {
+    "Cơ bụng trên (Upper Abs)": {
+      "Crunch (Gập bụng)": {
+        "muscle_primary": ["Cơ thẳng bụng (Rectus Abdominis) - phần trên"],
+        "muscle_secondary": ["Cơ chéo bụng"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "15-25",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, gối gập, bàn chân đặt sàn", "Tay sau gáy hoặc khoanh trước ngực", "Nâng vai và phần lưng trên lên khỏi sàn", "Hạ xuống chậm, không chạm sàn hoàn toàn"],
+        "tips": "KHÔNG kéo cổ lên. Cằm không chạm ngực. Siết bụng ở điểm cao nhất.",
+        "variations": ["Weighted Crunch", "Cable Crunch"],
+        "equipment": "Thảm tập"
+      },
+      "Sit-up (Gập bụng toàn phần)": {
+        "muscle_primary": ["Cơ thẳng bụng", "Hip Flexors"],
+        "muscle_secondary": ["Cơ chéo bụng"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "15-20",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, gối gập, bàn chân cố định (nhét dưới ghế hoặc nhờ người giữ)", "Nâng toàn bộ thân người lên đến thẳng đứng", "Hạ người xuống có kiểm soát"],
+        "tips": "Sit-up tác động nhiều vào hip flexors hơn crunch thuần túy.",
+        "variations": ["V-sit up"],
+        "equipment": "Thảm tập"
+      },
+      "Bicycle Crunch": {
+        "muscle_primary": ["Cơ chéo bụng (Obliques)", "Cơ thẳng bụng"],
+        "muscle_secondary": ["Hip Flexors"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "20 mỗi bên (40 tổng)",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, tay sau gáy, chân nâng lên 45°", "Xoay người đưa khuỷu tay phải về gối trái, đồng thời duỗi chân phải", "Đổi bên theo nhịp đạp xe"],
+        "tips": "Chuyển động chậm rãi có kiểm soát hiệu quả hơn làm nhanh.",
+        "variations": [],
+        "equipment": "Thảm tập"
+      }
+    },
+    "Cơ bụng dưới (Lower Abs)": {
+      "Leg Raise (Nâng chân)": {
+        "muscle_primary": ["Cơ thẳng bụng - phần dưới", "Hip Flexors"],
+        "muscle_secondary": ["Cơ chéo bụng"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "12-20",
+        "rest_seconds": 60,
+        "instructions": ["Nằm ngửa, tay đặt dưới mông để hỗ trợ lưng dưới", "Giữ chân thẳng, nâng lên đến 90°", "Hạ xuống chậm, chân không chạm sàn"],
+        "tips": "Ép lưng dưới xuống sàn trong suốt động tác để bảo vệ cột sống.",
+        "variations": ["Knee Raise (dễ hơn)", "Hanging Leg Raise (khó hơn, cần xà)"],
+        "equipment": "Thảm tập"
+      },
+      "Reverse Crunch (Gập bụng ngược)": {
+        "muscle_primary": ["Cơ thẳng bụng - phần dưới"],
+        "muscle_secondary": ["Hip Flexors"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "15-20",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, tay xuôi theo thân, gối gập 90°", "Kéo gối về phía ngực bằng cách cuộn hông lên", "Hạ xuống chậm, không để chân chạm sàn"],
+        "tips": "Không đung đưa, dùng lực cơ bụng chứ không phải đà.",
+        "variations": [],
+        "equipment": "Thảm tập"
+      },
+      "Flutter Kick (Đạp chân nhẹ)": {
+        "muscle_primary": ["Cơ bụng dưới", "Hip Flexors"],
+        "muscle_secondary": ["Đùi trước"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "30-60 giây",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, tay dưới mông, chân nâng lên khoảng 15-20cm", "Đạp chân lên xuống luân phiên theo biên độ nhỏ", "Giữ chân không chạm sàn trong suốt bài"],
+        "tips": "Thở đều đặn. Ép lưng dưới xuống sàn.",
+        "variations": ["Scissor Kick"],
+        "equipment": "Thảm tập"
+      }
+    },
+    "Core tổng hợp (Core Stability)": {
+      "Plank (Tấm ván)": {
+        "muscle_primary": ["Core (Transverse Abdominis)", "Cơ thẳng bụng"],
+        "muscle_secondary": ["Vai", "Lưng", "Mông"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "30-90 giây",
+        "rest_seconds": 45,
+        "instructions": ["Chống khuỷu tay hoặc bàn tay, người tạo đường thẳng", "Siết core, mông và đùi", "Nhìn xuống sàn, cổ trung lập", "Giữ tư thế trong thời gian quy định"],
+        "tips": "Không để hông nhô lên hoặc võng xuống. Thở bình thường.",
+        "variations": ["High Plank (chống tay)", "Side Plank", "Plank Shoulder Tap", "Plank Up-Down"],
+        "equipment": "Thảm tập"
+      },
+      "Side Plank (Tấm ván bên)": {
+        "muscle_primary": ["Cơ chéo bụng (Obliques)", "Core bên"],
+        "muscle_secondary": ["Vai", "Mông trung (Glute Med)"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "20-45 giây mỗi bên",
+        "rest_seconds": 45,
+        "instructions": ["Nằm nghiêng, chống khuỷu tay, người thẳng", "Nâng hông lên khỏi sàn", "Giữ thân thẳng từ đầu đến gót chân"],
+        "tips": "Không để hông đổ ra trước hoặc sau.",
+        "variations": ["Side Plank with Hip Dip", "Star Side Plank"],
+        "equipment": "Thảm tập"
+      },
+      "Dead Bug": {
+        "muscle_primary": ["Core sâu (Transverse Abdominis)", "Cơ thẳng bụng"],
+        "muscle_secondary": ["Lưng dưới", "Hip Flexors"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "10 mỗi bên",
+        "rest_seconds": 45,
+        "instructions": ["Nằm ngửa, tay giơ thẳng lên trần nhà, gối gập 90° nâng lên", "Duỗi tay phải và chân trái đồng thời xuống gần sàn", "Trở về, đổi bên. Lưng dưới ép sàn trong suốt"],
+        "tips": "Bài tập tuyệt vời cho người đau lưng. An toàn và hiệu quả.",
+        "variations": [],
+        "equipment": "Thảm tập"
+      },
+      "Mountain Climber (Leo núi)": {
+        "muscle_primary": ["Core", "Hip Flexors"],
+        "muscle_secondary": ["Vai", "Ngực", "Cardio"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "20-40 (mỗi chân)",
+        "rest_seconds": 45,
+        "instructions": ["Tư thế High Plank", "Kéo gối phải về ngực nhanh, sau đó đổi sang gối trái", "Duy trì hông thấp, không nhô lên"],
+        "tips": "Tốc độ nhanh = bài Cardio. Tốc độ chậm = bài Core.",
+        "variations": ["Cross Mountain Climber (gối đưa chéo sang vai đối diện)"],
+        "equipment": "Thảm tập"
+      }
+    },
+    "Lưng dưới (Lower Back)": {
+      "Superman": {
+        "muscle_primary": ["Lưng dưới (Erector Spinae)", "Mông"],
+        "muscle_secondary": ["Lưng giữa", "Đùi sau"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "12-20",
+        "rest_seconds": 45,
+        "instructions": ["Nằm sấp, tay duỗi thẳng về phía trước", "Đồng thời nâng tay, ngực và chân lên khỏi sàn", "Giữ 2-3 giây, hạ xuống"],
+        "tips": "Siết mông khi nâng. Cổ giữ trung lập, không ngửa cổ quá mức.",
+        "variations": ["Alternating Superman (đối bên)", "Back Extension"],
+        "equipment": "Thảm tập"
+      },
+      "Bird Dog": {
+        "muscle_primary": ["Lưng dưới", "Core", "Mông"],
+        "muscle_secondary": ["Vai", "Đùi sau"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "10-12 mỗi bên",
+        "rest_seconds": 45,
+        "instructions": ["Quỳ bốn chân, lưng phẳng", "Duỗi tay phải về trước và chân trái về sau cùng lúc", "Giữ 2-3 giây, về tư thế ban đầu, đổi bên"],
+        "tips": "Không xoay hông. Giữ cột sống trung lập.",
+        "variations": [],
+        "equipment": "Thảm tập"
+      }
+    }
+  },
+
+  "Cardio / Toàn thân": {
+    "Cường độ thấp - Trung bình (Low-Medium Intensity)": {
+      "Jumping Jack (Vỗ tay trên đầu)": {
+        "muscle_primary": ["Toàn thân", "Cardio"],
+        "muscle_secondary": ["Đùi trong", "Vai", "Bắp chân"],
+        "difficulty": "Beginner",
+        "sets": "3-5",
+        "reps": "30-60 giây",
+        "rest_seconds": 30,
+        "instructions": ["Đứng thẳng chân khép", "Bật hai chân ra hai bên đồng thời vỗ tay trên đầu", "Bật về tư thế ban đầu, tay xuôi thân"],
+        "tips": "Khởi động rất tốt. Có thể tăng tốc độ để tăng cường độ.",
+        "calories_per_minute": "8-10",
+        "variations": ["Half Jack (chân không bật rộng)", "Seal Jack (tay đưa ngang)"],
+        "equipment": "Không cần"
+      },
+      "High Knees (Chạy nâng gối)": {
+        "muscle_primary": ["Hip Flexors", "Đùi trước", "Cardio"],
+        "muscle_secondary": ["Core", "Bắp chân"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "30-60 giây",
+        "rest_seconds": 30,
+        "instructions": ["Đứng thẳng, chạy tại chỗ", "Nâng gối cao ngang hông", "Vung tay nhịp nhàng theo bước chân"],
+        "tips": "Tiếp đất bằng mũi chân để giảm chấn. Giữ thân thẳng.",
+        "calories_per_minute": "10-12",
+        "variations": ["Slow High Knees (Cường độ thấp)"],
+        "equipment": "Không cần"
+      },
+      "Butt Kicks (Đá gót)": {
+        "muscle_primary": ["Đùi sau", "Cardio"],
+        "muscle_secondary": ["Bắp chân", "Core"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "30-60 giây",
+        "rest_seconds": 30,
+        "instructions": ["Chạy tại chỗ, đá gót về phía mông", "Cố gắng chạm gót vào mông", "Vung tay như đang chạy"],
+        "tips": "Kết hợp High Knees và Butt Kicks thành chuỗi Cardio hiệu quả.",
+        "calories_per_minute": "9-11",
+        "variations": [],
+        "equipment": "Không cần"
+      },
+      "Lateral Shuffle (Bước ngang)": {
+        "muscle_primary": ["Đùi trong/ngoài", "Mông trung", "Cardio"],
+        "muscle_secondary": ["Đùi trước"],
+        "difficulty": "Beginner",
+        "sets": "3",
+        "reps": "30-45 giây",
+        "rest_seconds": 30,
+        "instructions": ["Đứng tư thế squat nhẹ, gối hơi gập", "Bước nhanh sang một bên 2-3 bước", "Đổi hướng liên tục"],
+        "tips": "Giữ tư thế thấp trong suốt bài để tăng cường độ cho chân.",
+        "calories_per_minute": "8-10",
+        "variations": [],
+        "equipment": "Không cần"
+      }
+    },
+    "Cường độ cao (High Intensity - HIIT)": {
+      "Burpee": {
+        "muscle_primary": ["Toàn thân", "Cardio"],
+        "muscle_secondary": ["Ngực", "Vai", "Đùi", "Mông", "Core"],
+        "difficulty": "Intermediate",
+        "sets": "3-5",
+        "reps": "10-15",
+        "rest_seconds": 60,
+        "instructions": ["Đứng thẳng", "Ngồi xổm, đặt tay xuống sàn", "Bật chân ra sau tư thế Push-up", "Làm một cái push-up (tùy chọn)", "Bật chân về gần tay", "Nhảy lên cao, vỗ tay trên đầu"],
+        "tips": "Đây là bài tập đốt calo hiệu quả nhất với bodyweight. Tập chậm lại nếu mất form.",
+        "calories_per_minute": "15-20",
+        "variations": ["Half Burpee (không push-up)", "Burpee Box Jump", "Devil Press (burpee với tạ)"],
+        "equipment": "Không cần"
+      },
+      "Box Jump (Nhảy lên ghế)": {
+        "muscle_primary": ["Đùi trước", "Mông", "Bắp chân"],
+        "muscle_secondary": ["Core", "Cardio"],
+        "difficulty": "Intermediate",
+        "sets": "3-4",
+        "reps": "8-12",
+        "rest_seconds": 60,
+        "instructions": ["Đứng trước ghế/bậc thang chắc chắn", "Gập gối nhẹ, vung tay để lấy đà", "Bật nhảy lên ghế bằng hai chân", "Tiếp đất nhẹ nhàng, đứng thẳng", "Bước xuống (không nhảy xuống)"],
+        "tips": "Chọn vật có độ cao phù hợp. Luôn bước xuống để bảo vệ gối.",
+        "calories_per_minute": "12-16",
+        "variations": ["Step-up (dễ hơn)", "Depth Jump"],
+        "equipment": "Ghế chắc chắn hoặc bậc thang"
+      },
+      "Squat Jump (Nhảy từ tư thế squat)": {
+        "muscle_primary": ["Đùi trước", "Mông", "Bắp chân"],
+        "muscle_secondary": ["Core"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "10-15",
+        "rest_seconds": 60,
+        "instructions": ["Ngồi squat xuống tư thế song song", "Bật nhảy lên mạnh nhất có thể", "Tiếp đất nhẹ nhàng, ngay vào tư thế squat tiếp theo"],
+        "tips": "Tiếp đất bằng mũi chân rồi gót, gối hơi gập để hấp thụ lực.",
+        "calories_per_minute": "12-15",
+        "variations": [],
+        "equipment": "Không cần"
+      },
+      "Tuck Jump (Nhảy gập gối)": {
+        "muscle_primary": ["Hip Flexors", "Đùi trước", "Bắp chân"],
+        "muscle_secondary": ["Core", "Cardio"],
+        "difficulty": "Advanced",
+        "sets": "3",
+        "reps": "8-12",
+        "rest_seconds": 75,
+        "instructions": ["Đứng thẳng, gập gối nhẹ", "Bật nhảy lên cao, kéo gối lên ngực càng cao càng tốt", "Tiếp đất nhẹ nhàng và bật ngay lần tiếp theo"],
+        "tips": "Động tác bùng nổ, không phù hợp người đang có vấn đề gối.",
+        "calories_per_minute": "14-18",
+        "variations": [],
+        "equipment": "Không cần"
+      },
+      "Plyo Push-up (Hít đất plyometric)": {
+        "muscle_primary": ["Ngực", "Tam đầu", "Vai"],
+        "muscle_secondary": ["Core"],
+        "difficulty": "Advanced",
+        "sets": "3",
+        "reps": "6-10",
+        "rest_seconds": 90,
+        "instructions": ["Tư thế push-up bình thường", "Đẩy mạnh xuống bằng cách hạ ngực nhanh", "Đẩy người lên mạnh đến mức tay rời khỏi sàn", "Tiếp đất nhẹ nhàng, ngay vào push-up tiếp theo"],
+        "tips": "Cần nền tảng push-up tốt. Có thể vỗ tay khi ở trên không.",
+        "calories_per_minute": "10-14",
+        "variations": ["Clap Push-up"],
+        "equipment": "Không cần"
+      },
+      "Bear Crawl (Bò gấu)": {
+        "muscle_primary": ["Toàn thân", "Core", "Vai"],
+        "muscle_secondary": ["Đùi trước", "Cardio"],
+        "difficulty": "Intermediate",
+        "sets": "3",
+        "reps": "10 mét / 30 giây",
+        "rest_seconds": 60,
+        "instructions": ["Quỳ bốn chân, nâng gối lên khỏi sàn khoảng 5cm", "Di chuyển tay phải và chân trái cùng lúc về phía trước", "Đổi bên, di chuyển về phía trước hoặc nhà chật thì đứng chỗ"],
+        "tips": "Giữ lưng phẳng, không nhô mông lên. Toàn thân làm việc liên tục.",
+        "calories_per_minute": "10-13",
+        "variations": ["Reverse Bear Crawl (lùi)", "Lateral Bear Crawl (ngang)"],
+        "equipment": "Không cần"
+      }
+    },
+    "Kéo giãn & Phục hồi (Cool Down)": {
+      "Inchworm": {
+        "muscle_primary": ["Hamstrings", "Core", "Vai"],
+        "muscle_secondary": ["Lưng dưới", "Ngực"],
+        "difficulty": "Beginner",
+        "sets": "2-3",
+        "reps": "8-10",
+        "rest_seconds": 30,
+        "instructions": ["Đứng thẳng, cúi xuống chạm tay vào sàn", "Bước tay ra xa trước mặt đến tư thế High Plank", "Giữ 1 giây, bước tay về, đứng dậy"],
+        "tips": "Vừa khởi động vừa kéo giãn toàn thân. Dùng cho warm-up và cool-down.",
+        "variations": ["Inchworm with Push-up"],
+        "equipment": "Không cần"
+      },
+      "World's Greatest Stretch": {
+        "muscle_primary": ["Hip Flexors", "Ngực", "Cột sống"],
+        "muscle_secondary": ["Hamstrings", "Lưng dưới"],
+        "difficulty": "Beginner",
+        "sets": "2",
+        "reps": "5 mỗi bên",
+        "rest_seconds": 30,
+        "instructions": ["Tư thế lunge thấp, chân trái trước", "Tay phải chạm sàn bên trong chân trái", "Xoay thân, giơ tay trái lên trần nhà", "Giữ 2-3 giây, đổi bên"],
+        "tips": "Bài kéo giãn toàn diện nhất. Lý tưởng sau mỗi buổi tập.",
+        "variations": [],
+        "equipment": "Không cần"
+      }
+    }
+  },
+
+  "workout_programs": {
+    "Beginner_3x_per_week": {
+      "description": "Chương trình cho người mới bắt đầu, 3 buổi/tuần",
+      "day_A": {
+        "name": "Thứ 2 - Push + Core",
+        "exercises": [
+          { "name": "Push-up", "sets": 3, "reps": "8-12" },
+          { "name": "Incline Push-up", "sets": 3, "reps": "10-15" },
+          { "name": "Tricep Dip", "sets": 3, "reps": "10-15" },
+          { "name": "Plank", "sets": 3, "duration": "30 giây" },
+          { "name": "Crunch", "sets": 3, "reps": "15" }
+        ]
+      },
+      "day_B": {
+        "name": "Thứ 4 - Legs + Cardio",
+        "exercises": [
+          { "name": "Squat", "sets": 3, "reps": "15-20" },
+          { "name": "Lunge", "sets": 3, "reps": "10 mỗi chân" },
+          { "name": "Glute Bridge", "sets": 3, "reps": "15" },
+          { "name": "Calf Raise", "sets": 3, "reps": "25" },
+          { "name": "Jumping Jack", "sets": 3, "duration": "45 giây" }
+        ]
+      },
+      "day_C": {
+        "name": "Thứ 6 - Full Body",
+        "exercises": [
+          { "name": "Burpee", "sets": 3, "reps": "8" },
+          { "name": "Diamond Push-up", "sets": 3, "reps": "8-10" },
+          { "name": "Squat Jump", "sets": 3, "reps": "10" },
+          { "name": "Leg Raise", "sets": 3, "reps": "12" },
+          { "name": "Superman", "sets": 3, "reps": "12" }
+        ]
+      }
+    },
+    "Intermediate_4x_per_week": {
+      "description": "Chương trình trung cấp, 4 buổi/tuần - Push/Pull/Legs/Full",
+      "day_1_push": {
+        "name": "Thứ 2 - Ngực & Tay sau",
+        "exercises": [
+          { "name": "Wide Push-up", "sets": 4, "reps": "12-15" },
+          { "name": "Decline Push-up", "sets": 3, "reps": "10-12" },
+          { "name": "Diamond Push-up", "sets": 4, "reps": "10-12" },
+          { "name": "Pike Push-up", "sets": 3, "reps": "8-10" },
+          { "name": "Tricep Dip", "sets": 3, "reps": "15" }
+        ]
+      },
+      "day_2_legs": {
+        "name": "Thứ 3 - Chân & Mông",
+        "exercises": [
+          { "name": "Squat", "sets": 4, "reps": "20" },
+          { "name": "Jump Squat", "sets": 3, "reps": "12" },
+          { "name": "Lunge", "sets": 3, "reps": "12 mỗi chân" },
+          { "name": "Glute Bridge", "sets": 4, "reps": "20" },
+          { "name": "Single-leg Calf Raise", "sets": 3, "reps": "15 mỗi chân" }
+        ]
+      },
+      "day_3_core_cardio": {
+        "name": "Thứ 5 - Bụng & Cardio",
+        "exercises": [
+          { "name": "Plank", "sets": 3, "duration": "60 giây" },
+          { "name": "Side Plank", "sets": 3, "duration": "30 giây mỗi bên" },
+          { "name": "Bicycle Crunch", "sets": 3, "reps": "20 mỗi bên" },
+          { "name": "Leg Raise", "sets": 3, "reps": "15" },
+          { "name": "Burpee", "sets": 4, "reps": "10" },
+          { "name": "Mountain Climber", "sets": 3, "duration": "30 giây" }
+        ]
+      },
+      "day_4_full_body": {
+        "name": "Thứ 7 - Toàn thân HIIT",
+        "format": "Circuit 4 vòng, nghỉ 90 giây giữa các vòng",
+        "circuit": [
+          { "name": "Burpee", "reps": 10 },
+          { "name": "Squat Jump", "reps": 12 },
+          { "name": "Push-up", "reps": 10 },
+          { "name": "High Knees", "duration": "30 giây" },
+          { "name": "Mountain Climber", "duration": "20 giây" }
+        ]
+      }
+    }
+  }
+}
